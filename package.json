@@ -1,6 +1,6 @@
 {
   "name": "sharing-types",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "sharing types between frontend and backend",
   "main": "index.js",
   "scripts": {
